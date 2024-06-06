@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HUAWEI\\Desktop\\apbdEF\\EF_Example\\EF_Example\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EF_Example.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EF_Example.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\Desktop\\apbdEF\\EF_Example\\EF_Example\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\Desktop\\apbdEF\\EF_Example\\EF_Example\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\Desktop\\apbdEF\\EF_Example\\EF_Example\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\Desktop\\apbdEF\\EF_Example\\EF_Example\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EF_Example.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EF_Example.props",
+      "PackagePath": "build\\EF_Example.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EF_Example.props",
+      "PackagePath": "buildMultiTargeting\\EF_Example.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EF_Example.props",
+      "PackagePath": "buildTransitive\\EF_Example.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
